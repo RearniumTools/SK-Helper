@@ -1,5 +1,4 @@
-# Bank Helper
-![](https://www.blast.hk/attachments/155176/)
+# SK Helper
 ____
 [Скачать автоматический установщик](https://github.com/RearniumTools/SK-Helper/blob/main/SK%20Helper.exe?raw=true)
 
